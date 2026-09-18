@@ -42,6 +42,7 @@ After compile the project, execute the follow commands to compress (-c) and extr
 $ ./huffman -c pathToFileToCompress.*
 $ ./huffman -e parthToHuffmanFile.huf
 ~~~~
+Compressing creates a `.huf` file by appending the extension to the input path.
 
 ## References
 
